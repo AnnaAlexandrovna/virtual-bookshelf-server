@@ -1,0 +1,1 @@
+export const getOpenLibraryUrl = (path: string): string => `https://openlibrary.org/${path}`;
